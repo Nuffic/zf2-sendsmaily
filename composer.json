@@ -1,0 +1,13 @@
+{
+  "name": "nuffic/zf2-sendsmaily",
+  "description": "ZF2 wrapper for nuffic/sendsmaily",
+  "require": {
+    "nuffic/sendsmaily": "dev-develop"
+  },
+  "autoload": {
+    "psr-0": {"ZfSendsmaily": "src/"},
+    "classmap": [
+      "./Module.php"
+    ]
+  }
+}
