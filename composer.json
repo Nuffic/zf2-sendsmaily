@@ -5,7 +5,6 @@
     "nuffic/sendsmaily": "dev-develop"
   },
   "autoload": {
-    "psr-0": {"ZfSendsmaily": "src/"},
     "classmap": [
       "./Module.php"
     ]
